@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:  cursive;
+}
+#container{
+    margin-top: 12.5rem;
+
+}
+
+.img-in{
+width: 12.5rem;
+height: 12.5rem;
+}
+
+
+#h1{
+    z-index: 999;
+color: burlywood;
+background: rgb(116, 88, 88);
+    font-family: fantasy;
+    font-size: 3rem;
+    width: 25rem;
+    position: fixed;
+    top: 15px;
+    left: 40%;
+
+}
+#h2{
+    font-size: 4rem;
+    color: rgba(27, 30, 70, 0.82);
+    font-family: cursive;
+    margin-bottom: 2rem;
+}
